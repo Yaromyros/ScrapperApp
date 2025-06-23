@@ -7,7 +7,6 @@ This project scrapes job listings for "Software Engineering jobs" and stores the
 - Spring Boot
 - PostgreSQL
 - Docker
-- Google Drive API
 
 ## How to run
 
